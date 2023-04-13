@@ -1,4 +1,4 @@
-# HTML Academy. Личный проект «Pizza»
+# Проект «Pizza»
 
 ## Начальные требования
 - Docker
